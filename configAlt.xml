@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--v.1-->
+<Config>
+  <Buttons>
+    <Button id="0" Icon="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\BUTTON_ICONS\dronikon.png" Event="ExeOpenWithParameter" IdContent="Content Main" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\VirtualTourLVL4\virtualtour.swf" Path1="C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" Path2="--kiosk" EventStartUp="false" WindowSize="1 : 1" />
+    <Button id="1" Icon="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\BUTTON_ICONS\M2.jpg" Event="Movie" IdContent="Content Main" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\MOVIE\M2.mp4" Path1="" Path2="" EventStartUp="true" WindowSize="1 : 2" />
+    <Button id="2" Icon="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\BUTTON_ICONS\Map.jpg" Event="InteractiveImages" IdContent="Content Main" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\BUTTON_ICONS\Map.jpg" Path1="" Path2="" EventStartUp="false" WindowSize="1 : 1" />
+    <Button id="3" Icon="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\BUTTON_ICONS\M1.jpg" Event="Movie" IdContent="Content Main" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\MOVIE\M1.mp4" Path1="" Path2="" EventStartUp="false" WindowSize="2 : 2" />
+    <Button id="4" Icon="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\BUTTON_ICONS\possible.png" Event="Twiiter" IdContent="Content Main" Source="possible" Path1="5" Path2="false" EventStartUp="false" WindowSize="2 : 1" />
+    <Button id="5" Icon="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\BUTTON_ICONS\M11.jpg" Event="OpenWWWPage" IdContent="Content Main" Source="https://www.google.pl/" Path1="C:\Program Files\Microsoft Office 15\root\office15\POWERPNT.EXE" Path2="/S" EventStartUp="false" WindowSize="2 : 1" />
+    <Button id="6" Icon="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\BUTTON_ICONS\M8.jpg" Event="ExeOpenWithParameter" IdContent="Content Main" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\OUTPROGRAM\DigitalSignageProgres.pptx" Path1="C:\Program Files\Microsoft Office 15\root\office15\POWERPNT.EXE" Path2="/S" EventStartUp="false" WindowSize="1 : 2" />
+    <Button id="7" Icon="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\BUTTON_ICONS\M6.jpg" Event="Gallery" IdContent="Content Main" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\M6" Path1="jpg" Path2="" EventStartUp="false" WindowSize="1 : 2" />
+    <Button id="8" Icon="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\BUTTON_ICONS\dobreprogramy.png" Event="Twiiter" IdContent="Content Main" Source="dobreprogramy" Path1="5" Path2="false" EventStartUp="false" WindowSize="2 : 1" />
+    <Button id="9" Icon="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\BUTTON_ICONS\M7D.jpg" Event="GalleryTwo" IdContent="Content Main" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\M7" Path1="jpg" Path2="" EventStartUp="false" WindowSize="2 : 2" />
+    <Button id="10" Icon="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\BUTTON_ICONS\html5.png" Event="Twiiter" IdContent="Content Main" Source="html5" Path1="5" Path2="false" EventStartUp="false" WindowSize="2 : 1" />
+    <Button id="11" Icon="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\BUTTON_ICONS\M5.jpg" Event="Movie" IdContent="Content Main" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\MOVIE\M5.mp4" Path1="" Path2="" EventStartUp="false" WindowSize="2 : 2" />
+    <Button id="12" Icon="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\BUTTON_ICONS\kinect.png" Event="Twiiter" IdContent="Content Main" Source="kinect" Path1="5" Path2="false" EventStartUp="false" WindowSize="2 : 1" />
+    <Button id="13" Icon="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\BUTTON_ICONS\M4.jpg" Event="Movie" IdContent="Content Main" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\MOVIE\M5.mp4" Path1="" Path2="" EventStartUp="false" WindowSize="2 : 1" />
+    <Button id="14" Icon="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\BUTTON_ICONS\snakeikon.png" Event="GamePlay" IdContent="Content Main" Source="" Path1="IPlug" Path2="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\Plugins" EventStartUp="false" WindowSize="1 : 1" />
+    <Button id="15" Icon="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\BUTTON_ICONS\M7.jpg" Event="OpenWWWPage" IdContent="Content Main" Source="https://www.youtube.com/watch?v=IWDa4CMaUy8@list=PLP3nA5vxC3cV8h_NSQCiFvUXAFfDLEwR3" Path1="" Path2="" EventStartUp="false" WindowSize="1 : 2" />
+    <Button id="16" Icon="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\BUTTON_ICONS\M1.jpg" Event="ExeOpenWithParameter" IdContent="Content Main" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\mp3.mp3" Path1="wmplayer.exe" Path2="" EventStartUp="false" WindowSize="1 : 1" />
+  </Buttons>
+  <BackGrounds>
+    <BackGround id="BackGround" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\BACKGROUNDS\background.jpg" />
+    <BackGround id="Gallery" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\BACKGROUNDS\background.jpg" />
+    <BackGround id="InteractiveImages" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\BACKGROUNDS\background.jpg" />
+    <BackGround id="OpenWWWPage" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\BACKGROUNDS\background.jpg" />
+    <BackGround id="Game" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\BACKGROUNDS\background.jpg" />
+    <BackGround id="BackGroundMain" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\BACKGROUNDS\background.jpg" />
+    <BackGround id="BackGroundRingAnimation" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\ANIMATION/ring.png" />
+    <BackGround id="ShutDown" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\SCRENSAVER\shutdown.png" />
+    <BackGround id="Movie" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\BACKGROUNDS\background.jpg" />
+  </BackGrounds>
+  <ContentTexts>
+    <ContentText id="0" Text="WHY POSSIBLE?" />
+    <ContentText id="1" Text="WE ARE BOLD." />
+    <ContentText id="2" Text="We are not afraid to speak up, take risks or change the rules" />
+    <ContentText id="3" Text="WE ARE INTERESTED." />
+    <ContentText id="4" Text="WE ARE RELENTLESS." />
+    <ContentText id="5" Text="WE ARE TOGETHER." />
+    <ContentText id="6" Text="Strategic Planning" />
+    <ContentText id="7" Text="Creative Campaigns" />
+    <ContentText id="8" Text="Marketing Sciences" />
+    <ContentText id="9" Text="Digital Product Development" />
+    <ContentText id="10" Text="Ecommerce Technology" />
+    <ContentText id="11" Text="Analytics and Optimization" />
+    <ContentText id="12" Text="Web Development" />
+    <ContentText id="13" Text="Technology Solutions" />
+    <ContentText id="14" Text="User Experience Development" />
+  </ContentTexts>
+  <Tutorials>
+    <Tutorial id="Gallery" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\TUTORILS\Microsoft Kinect Learns to Read Hand Gestures.mp4" Volue="0,0" Active="false" Type="false"/>
+    <Tutorial id="GamePlug" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\TUTORILS\Microsoft Kinect Learns to Read Hand Gestures.mp4" Volue="0,0" Active="false" Type="false"/>
+    <Tutorial id="InteractiveImages" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\TUTORILS\Microsoft Kinect Learns to Read Hand Gestures.mp4" Volue="0,0" Active="false" Type="false"/>
+    <Tutorial id="Movie" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\TUTORILS\Microsoft Kinect Learns to Read Hand Gestures.mp4" Volue="0,0" Active="false" Type="false"/>
+    <Tutorial id="OpenOutProgram" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\TUTORILS\Microsoft Kinect Learns to Read Hand Gestures.mp4" Volue="0,0" Active="false" Type="false"/>
+    <Tutorial id="OpenWeb" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\TUTORILS\Microsoft Kinect Learns to Read Hand Gestures.mp4" Volue="0,0" Active="false" Type="true"/>
+  </Tutorials>
+  <WaterMarks>
+    <WaterMark id="WaterMarkMovie" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\WATERMARKS/play_button.png" />
+    <WaterMark id="WaterMarkOutSideProgram" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\WATERMARKS\exe.png" />
+    <WaterMark id="WaterMarkGallery" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\WATERMARKS\gallery.png" />
+    <WaterMark id="WaterMarkInteractiveImages" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\WATERMARKS\zoomoutin.png" />
+    <WaterMark id="WaterMarkOpenWeb" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\WATERMARKS\www.png" />
+    <WaterMark id="WaterMarkGalleryParseFromFile" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\WATERMARKS\gallery.png" />
+    <WaterMark id="WaterMarkExitMark" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\ICONS/exitmark.png" />
+    <WaterMark id="WaterMarkNextMark" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\nextmark.png" />
+    <WaterMark id="WaterMarkPrevMark" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\prevmark.jpg" />
+  </WaterMarks>
+  <Logos>
+    <Logo id="LogoLeft" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\ICONS\POSSIBLE.png" />
+    <Logo id="MainLogo" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\ICONS\POSSIBLE.png" />
+    <Logo id="OffLogo" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\ICONS\POSSIBLE.png" />
+  </Logos>
+  <Gestures>
+    <Gesture id="VOLUME/ZOOM" enable="true" />
+    <Gesture id="EXIT" enable="true" />
+    <Gesture id="SYMULATE MOUSE CLIK" enable="true" />
+    <Gesture id="DOWN" enable="true" />
+    <Gesture id="LEFT" enable="true" />
+    <Gesture id="RIGHT" enable="true" />
+    <Gesture id="UP" enable="true" />
+    <Gesture id="MINIMALIZE" enable="true" />
+    <Gesture id="MAXYMALIZE" enable="true" />
+    <Gesture id="OPEN WEB" enable="true" />
+    <Gesture id="NEXT" enable="true" />
+    <Gesture id="PRIEV" enable="true" />
+    <Gesture id="POSSIBLE" enable="true" />
+  </Gestures>
+  <AccessTokenTwiits>
+    <AccessTokenTwiit OAuthConsumerKey="QJzxBHx4n0fsfZceJYw7P6mxZ" OAuthConsumerSecret="E0VR0xPc3GtKKiC6jLySEMQv8LItS9ReGBG6F3dXbploqolzJ7" />
+  </AccessTokenTwiits>
+  <Movies>
+    <Movie id="MovieOne" Icon="" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\ANIMATION\Brand_Reel.mp4" />
+    <Movie id="MovieMain" Icon="" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\ANIMATION\POSSIBLE.mp4" />
+  </Movies>
+  <Layouts>
+    <Layout WidthButton="190" HeightButton="190" HorizontalVertical="false" Animation="true" Opacity="0,9" BorderBrush="#FF33FF" TimeWatingScreenSaver="60" ScreenEvent="false" SpeedGallery="15" HorizontalAlignment="Center"/>
+  </Layouts>
+</Config>

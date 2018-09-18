@@ -1,0 +1,162 @@
+C:\Users\Mariusz.konior\Desktop\New HomeWork\OpenFile\OpenFile\bin\Debug\OpenFile.exe
+C:\Users\Mariusz.konior\Desktop\New HomeWork\OpenFile\OpenFile\bin\Debug\OpenFile.pdb
+C:\Users\Mariusz.konior\Desktop\New HomeWork\OpenFile\OpenFile\obj\Debug\OpenFile.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz.konior\Desktop\New HomeWork\OpenFile\OpenFile\obj\Debug\MainWindow.baml
+C:\Users\Mariusz.konior\Desktop\New HomeWork\OpenFile\OpenFile\obj\Debug\MainWindow.g.cs
+C:\Users\Mariusz.konior\Desktop\New HomeWork\OpenFile\OpenFile\obj\Debug\App.g.cs
+C:\Users\Mariusz.konior\Desktop\New HomeWork\OpenFile\OpenFile\obj\Debug\OpenFile_MarkupCompile.cache
+C:\Users\Mariusz.konior\Desktop\New HomeWork\OpenFile\OpenFile\obj\Debug\OpenFile.g.resources
+C:\Users\Mariusz.konior\Desktop\New HomeWork\OpenFile\OpenFile\obj\Debug\OpenFile.Properties.Resources.resources
+C:\Users\Mariusz.konior\Desktop\New HomeWork\OpenFile\OpenFile\obj\Debug\OpenFile.csproj.GenerateResource.Cache
+C:\Users\Mariusz.konior\Desktop\New HomeWork\OpenFile\OpenFile\obj\Debug\OpenFile.exe
+C:\Users\Mariusz.konior\Desktop\New HomeWork\OpenFile\OpenFile\obj\Debug\OpenFile.pdb
+C:\Users\Mariusz.konior\Desktop\New HomeWork\Config\OpenFile\obj\Debug\OpenFile.exe
+C:\Users\Mariusz.konior\Desktop\New HomeWork\Config\OpenFile\obj\Debug\OpenFile.pdb
+C:\Users\Mariusz.konior\Desktop\New HomeWork\Config\OpenFile\bin\Debug\OpenFile.exe
+C:\Users\Mariusz.konior\Desktop\New HomeWork\Config\OpenFile\bin\Debug\OpenFile.pdb
+C:\Users\Mariusz.konior\Desktop\New HomeWork\Config\OpenFile\obj\Debug\OpenFile.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz.konior\Desktop\New HomeWork\Config\OpenFile\obj\Debug\MainWindow.baml
+C:\Users\Mariusz.konior\Desktop\New HomeWork\Config\OpenFile\obj\Debug\MainWindow.g.cs
+C:\Users\Mariusz.konior\Desktop\New HomeWork\Config\OpenFile\obj\Debug\App.g.cs
+C:\Users\Mariusz.konior\Desktop\New HomeWork\Config\OpenFile\obj\Debug\OpenFile_MarkupCompile.cache
+C:\Users\Mariusz.konior\Desktop\New HomeWork\Config\OpenFile\obj\Debug\OpenFile.g.resources
+C:\Users\Mariusz.konior\Desktop\New HomeWork\Config\OpenFile\obj\Debug\OpenFile.Properties.Resources.resources
+C:\Users\Mariusz.konior\Desktop\New HomeWork\Config\OpenFile\obj\Debug\OpenFile.csproj.GenerateResource.Cache
+C:\Users\Mariusz.konior\Desktop\FINISH\Config\OpenFile\obj\Debug\OpenFile.exe
+C:\Users\Mariusz.konior\Desktop\FINISH\Config\OpenFile\obj\Debug\OpenFile.pdb
+G:\Config\OpenFile\obj\Debug\OpenFile.exe
+G:\Config\OpenFile\obj\Debug\OpenFile.pdb
+G:\Config\OpenFile\bin\Debug\OpenFile.exe
+G:\Config\OpenFile\bin\Debug\OpenFile.pdb
+G:\Config\OpenFile\obj\Debug\OpenFile.csprojResolveAssemblyReference.cache
+G:\Config\OpenFile\obj\Debug\MainWindow.baml
+G:\Config\OpenFile\obj\Debug\MainWindow.g.cs
+G:\Config\OpenFile\obj\Debug\App.g.cs
+G:\Config\OpenFile\obj\Debug\OpenFile_MarkupCompile.cache
+G:\Config\OpenFile\obj\Debug\OpenFile.g.resources
+G:\Config\OpenFile\obj\Debug\OpenFile.Properties.Resources.resources
+G:\Config\OpenFile\obj\Debug\OpenFile.csproj.GenerateResource.Cache
+C:\Users\Mariusz.konior\Desktop\FINISH\Config\OpenFile\bin\Debug\OpenFile.exe
+C:\Users\Mariusz.konior\Desktop\FINISH\Config\OpenFile\bin\Debug\OpenFile.pdb
+C:\Users\Mariusz.konior\Desktop\FINISH\Config\OpenFile\obj\Debug\OpenFile.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz.konior\Desktop\FINISH\Config\OpenFile\obj\Debug\MainWindow.baml
+C:\Users\Mariusz.konior\Desktop\FINISH\Config\OpenFile\obj\Debug\MainWindow.g.cs
+C:\Users\Mariusz.konior\Desktop\FINISH\Config\OpenFile\obj\Debug\App.g.cs
+C:\Users\Mariusz.konior\Desktop\FINISH\Config\OpenFile\obj\Debug\OpenFile_MarkupCompile.cache
+C:\Users\Mariusz.konior\Desktop\FINISH\Config\OpenFile\obj\Debug\OpenFile.g.resources
+C:\Users\Mariusz.konior\Desktop\FINISH\Config\OpenFile\obj\Debug\OpenFile.Properties.Resources.resources
+C:\Users\Mariusz.konior\Desktop\FINISH\Config\OpenFile\obj\Debug\OpenFile.csproj.GenerateResource.Cache
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile.exe
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile.pdb
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Config\OpenFile\bin\Debug\OpenFile.exe
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Config\OpenFile\bin\Debug\OpenFile.pdb
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Config\OpenFile\obj\Debug\MainWindow.baml
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Config\OpenFile\obj\Debug\MainWindow.g.cs
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Config\OpenFile\obj\Debug\App.g.cs
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile_MarkupCompile.cache
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile.g.resources
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile.Properties.Resources.resources
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile.csproj.GenerateResource.Cache
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\Config\OpenFile\bin\Debug\OpenFile.exe
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\Config\OpenFile\bin\Debug\OpenFile.pdb
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\Config\OpenFile\obj\Debug\MainWindow.baml
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\Config\OpenFile\obj\Debug\MainWindow.g.cs
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\Config\OpenFile\obj\Debug\App.g.cs
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile_MarkupCompile.cache
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile.g.resources
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile.Properties.Resources.resources
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile.csproj.GenerateResource.Cache
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile.exe
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile.pdb
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\Config\OpenFile\bin\Debug\OpenFile.exe
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\Config\OpenFile\bin\Debug\OpenFile.pdb
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\Config\OpenFile\obj\Debug\MainWindow.baml
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\Config\OpenFile\obj\Debug\MainWindow.g.cs
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\Config\OpenFile\obj\Debug\App.g.cs
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile_MarkupCompile.cache
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile.g.resources
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile.Properties.Resources.resources
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile.csproj.GenerateResource.Cache
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile.exe
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile.pdb
+F:\DigitalSignageBaymax\Config\OpenFile\bin\Debug\OpenFile.exe
+F:\DigitalSignageBaymax\Config\OpenFile\bin\Debug\OpenFile.pdb
+F:\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile.csprojResolveAssemblyReference.cache
+F:\DigitalSignageBaymax\Config\OpenFile\obj\Debug\MainWindow.baml
+F:\DigitalSignageBaymax\Config\OpenFile\obj\Debug\MainWindow.g.cs
+F:\DigitalSignageBaymax\Config\OpenFile\obj\Debug\App.g.cs
+F:\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile_MarkupCompile.cache
+F:\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile.g.resources
+F:\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile.Properties.Resources.resources
+F:\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile.csproj.GenerateResource.Cache
+F:\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile.exe
+F:\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile.pdb
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\Config\OpenFile\bin\Debug\RestSharp.dll
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\Config\OpenFile\bin\Debug\RestSharp.xml
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\Config\OpenFile\bin\Debug\OpenFile.exe.config
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\Config\OpenFile\bin\Debug\OpenFile.exe.config
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\Config\OpenFile\bin\Debug\OpenFile.exe
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\Config\OpenFile\bin\Debug\RestSharp.dll
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\Config\OpenFile\bin\Debug\RestSharp.xml
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\Config\OpenFile\obj\Debug\MainWindow.baml
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\Config\OpenFile\obj\Debug\MainWindow.g.cs
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\Config\OpenFile\obj\Debug\App.g.cs
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile_MarkupCompile.cache
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile.g.resources
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile.Properties.Resources.resources
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile.csproj.GenerateResource.Cache
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile.exe
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile.pdb
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\Config\OpenFile\bin\Debug\OpenFile.pdb
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile.csprojResolveAssemblyReference.cache
+E:\COPY18\DigitalSignageBaymax\Config\OpenFile\bin\Debug\OpenFile.exe.config
+E:\COPY18\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile.exe
+E:\COPY18\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile.pdb
+E:\COPY18\DigitalSignageBaymax\Config\OpenFile\bin\Debug\OpenFile.exe
+E:\COPY18\DigitalSignageBaymax\Config\OpenFile\bin\Debug\OpenFile.pdb
+E:\COPY18\DigitalSignageBaymax\Config\OpenFile\bin\Debug\RestSharp.dll
+E:\COPY18\DigitalSignageBaymax\Config\OpenFile\bin\Debug\RestSharp.xml
+E:\COPY18\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile.csprojResolveAssemblyReference.cache
+E:\COPY18\DigitalSignageBaymax\Config\OpenFile\obj\Debug\MainWindow.baml
+E:\COPY18\DigitalSignageBaymax\Config\OpenFile\obj\Debug\MainWindow.g.cs
+E:\COPY18\DigitalSignageBaymax\Config\OpenFile\obj\Debug\App.g.cs
+E:\COPY18\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile_MarkupCompile.cache
+E:\COPY18\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile.g.resources
+E:\COPY18\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile.Properties.Resources.resources
+E:\COPY18\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile.csproj.GenerateResource.Cache
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\Config\OpenFile\bin\Debug\OpenFile.exe.config
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile.exe
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile.pdb
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\Config\OpenFile\bin\Debug\OpenFile.exe.config
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\Config\OpenFile\bin\Debug\OpenFile.exe
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\Config\OpenFile\bin\Debug\OpenFile.pdb
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\Config\OpenFile\bin\Debug\RestSharp.dll
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\Config\OpenFile\bin\Debug\RestSharp.xml
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\Config\OpenFile\obj\Debug\MainWindow.baml
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\Config\OpenFile\obj\Debug\MainWindow.g.cs
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\Config\OpenFile\obj\Debug\App.g.cs
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile_MarkupCompile.cache
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile.g.resources
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile.Properties.Resources.resources
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile.csproj.GenerateResource.Cache
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile.exe
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile.pdb
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile.csprojResolveAssemblyReference.cache
+E:\Google Drive\Possible\DigitalSignageBaymax\Config\OpenFile\bin\Debug\OpenFile.exe.config
+E:\Google Drive\Possible\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile.exe
+E:\Google Drive\Possible\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile.pdb
+E:\Google Drive\Possible\DigitalSignageBaymax\Config\OpenFile\bin\Debug\OpenFile.exe
+E:\Google Drive\Possible\DigitalSignageBaymax\Config\OpenFile\bin\Debug\OpenFile.pdb
+E:\Google Drive\Possible\DigitalSignageBaymax\Config\OpenFile\bin\Debug\RestSharp.dll
+E:\Google Drive\Possible\DigitalSignageBaymax\Config\OpenFile\bin\Debug\RestSharp.xml
+E:\Google Drive\Possible\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile.csprojResolveAssemblyReference.cache
+E:\Google Drive\Possible\DigitalSignageBaymax\Config\OpenFile\obj\Debug\MainWindow.baml
+E:\Google Drive\Possible\DigitalSignageBaymax\Config\OpenFile\obj\Debug\MainWindow.g.cs
+E:\Google Drive\Possible\DigitalSignageBaymax\Config\OpenFile\obj\Debug\App.g.cs
+E:\Google Drive\Possible\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile_MarkupCompile.cache
+E:\Google Drive\Possible\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile.g.resources
+E:\Google Drive\Possible\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile.Properties.Resources.resources
+E:\Google Drive\Possible\DigitalSignageBaymax\Config\OpenFile\obj\Debug\OpenFile.csproj.GenerateResource.Cache

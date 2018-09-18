@@ -1,0 +1,136 @@
+C:\Users\Mariusz.konior\Desktop\VSKinect\KinectControls\ControlsBasics-WPF\.Debug\KinectInteraction180_32.dll
+C:\Users\Mariusz.konior\Desktop\VSKinect\KinectControls\ControlsBasics-WPF\.Debug\KinectInteraction180_64.dll
+C:\Users\Mariusz.konior\Desktop\VSKinect\KinectControls\ControlsBasics-WPF\.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Mariusz.konior\Desktop\VSKinect\KinectControls\ControlsBasics-WPF\.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Mariusz.konior\Desktop\VSKinect\KinectControls\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz.konior\Desktop\VSKinect\KinectControls\Microsoft.Kinect.Toolkit.Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mariusz.konior\Desktop\VSKinect\KinectControls\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.cache
+C:\Users\Mariusz.konior\Desktop\VSKinect\KinectControls\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.lref
+C:\Users\Mariusz.konior\Desktop\VSKinect\KinectControls\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Themes\Generic.baml
+C:\Users\Mariusz.konior\Desktop\VSKinect\KinectControls\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.g.resources
+C:\Users\Mariusz.konior\Desktop\VSKinect\KinectControls\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Mariusz.konior\Desktop\VSKinect\KinectControls\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+E:\VSKinect\KinectControls\ControlsBasics-WPF\.Debug\KinectInteraction180_32.dll
+E:\VSKinect\KinectControls\ControlsBasics-WPF\.Debug\KinectInteraction180_64.dll
+E:\VSKinect\KinectControls\ControlsBasics-WPF\.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+E:\VSKinect\KinectControls\ControlsBasics-WPF\.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+E:\VSKinect\KinectControls\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.csprojResolveAssemblyReference.cache
+E:\VSKinect\KinectControls\Microsoft.Kinect.Toolkit.Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\VSKinect\KinectControls\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.cache
+E:\VSKinect\KinectControls\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.lref
+E:\VSKinect\KinectControls\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Themes\Generic.baml
+E:\VSKinect\KinectControls\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.g.resources
+E:\VSKinect\KinectControls\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+E:\VSKinect\KinectControls\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+E:\KinectControls - Gesture\ControlsBasics-WPF\.Debug\KinectInteraction180_32.dll
+E:\KinectControls - Gesture\ControlsBasics-WPF\.Debug\KinectInteraction180_64.dll
+E:\KinectControls - Gesture\ControlsBasics-WPF\.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+E:\KinectControls - Gesture\ControlsBasics-WPF\.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+E:\KinectControls - Gesture\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.csprojResolveAssemblyReference.cache
+E:\KinectControls - Gesture\Microsoft.Kinect.Toolkit.Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\KinectControls - Gesture\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.cache
+E:\KinectControls - Gesture\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.lref
+E:\KinectControls - Gesture\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Themes\Generic.baml
+E:\KinectControls - Gesture\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.g.resources
+E:\KinectControls - Gesture\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+E:\KinectControls - Gesture\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Mariusz.konior\Desktop\KinectControls - Gesture\ControlsBasics-WPF\.Debug\KinectInteraction180_32.dll
+C:\Users\Mariusz.konior\Desktop\KinectControls - Gesture\ControlsBasics-WPF\.Debug\KinectInteraction180_64.dll
+C:\Users\Mariusz.konior\Desktop\KinectControls - Gesture\ControlsBasics-WPF\.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Mariusz.konior\Desktop\KinectControls - Gesture\ControlsBasics-WPF\.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Mariusz.konior\Desktop\KinectControls - Gesture\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz.konior\Desktop\KinectControls - Gesture\Microsoft.Kinect.Toolkit.Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mariusz.konior\Desktop\KinectControls - Gesture\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.cache
+C:\Users\Mariusz.konior\Desktop\KinectControls - Gesture\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.lref
+C:\Users\Mariusz.konior\Desktop\KinectControls - Gesture\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Themes\Generic.baml
+C:\Users\Mariusz.konior\Desktop\KinectControls - Gesture\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.g.resources
+C:\Users\Mariusz.konior\Desktop\KinectControls - Gesture\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Mariusz.konior\Desktop\KinectControls - Gesture\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+E:\KinectControls - Gesture - Copy\DigitalSignage\.Debug\KinectInteraction180_32.dll
+E:\KinectControls - Gesture - Copy\DigitalSignage\.Debug\KinectInteraction180_64.dll
+E:\KinectControls - Gesture - Copy\DigitalSignage\.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+E:\KinectControls - Gesture - Copy\DigitalSignage\.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Mariusz.konior\Desktop\Kinect -17-7 10;00\DigitalSignage\.Debug\KinectInteraction180_32.dll
+C:\Users\Mariusz.konior\Desktop\Kinect -17-7 10;00\DigitalSignage\.Debug\KinectInteraction180_64.dll
+C:\Users\Mariusz.konior\Desktop\Kinect -17-7 10;00\DigitalSignage\.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Mariusz.konior\Desktop\Kinect -17-7 10;00\DigitalSignage\.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Mariusz.konior\Desktop\Kinect\DigitalSignage\.Debug\KinectInteraction180_32.dll
+C:\Users\Mariusz.konior\Desktop\Kinect\DigitalSignage\.Debug\KinectInteraction180_64.dll
+C:\Users\Mariusz.konior\Desktop\Kinect\DigitalSignage\.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Mariusz.konior\Desktop\Kinect\DigitalSignage\.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\.Debug\KinectInteraction180_32.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\.Debug\KinectInteraction180_64.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.cache
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.lref
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Themes\Generic.baml
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.g.resources
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\.Debug\KinectInteraction180_32.dll
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\.Debug\KinectInteraction180_64.dll
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.cache
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.lref
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Themes\Generic.baml
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.g.resources
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+F:\DigitalSignageBaymax\.Debug\KinectInteraction180_32.dll
+F:\DigitalSignageBaymax\.Debug\KinectInteraction180_64.dll
+F:\DigitalSignageBaymax\.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+F:\DigitalSignageBaymax\.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+F:\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.csprojResolveAssemblyReference.cache
+F:\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.cache
+F:\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.lref
+F:\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Themes\Generic.baml
+F:\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.g.resources
+F:\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+F:\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\.Debug\KinectInteraction180_32.dll
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\.Debug\KinectInteraction180_64.dll
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.cache
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.lref
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Themes\Generic.baml
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.g.resources
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\.Debug\KinectInteraction180_32.dll
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\.Debug\KinectInteraction180_64.dll
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.cache
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.lref
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Themes\Generic.baml
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.g.resources
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+E:\Google Drive\Possible\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.csprojResolveAssemblyReference.cache
+E:\Google Drive\Possible\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Google Drive\Possible\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.cache
+E:\Google Drive\Possible\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.lref
+E:\Google Drive\Possible\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+E:\Google Drive\Possible\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\.Debug\KinectInteraction180_32.dll
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\.Debug\KinectInteraction180_64.dll
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.csprojResolveAssemblyReference.cache
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.cache
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.lref
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Themes\Generic.baml
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.g.resources
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\.Debug\Microsoft.Kinect.Toolkit.Controls.pdb

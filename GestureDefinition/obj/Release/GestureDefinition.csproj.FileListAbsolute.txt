@@ -1,0 +1,12 @@
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\GestureDefinition\bin\Release\KinectInteraction180_32.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\GestureDefinition\bin\Release\KinectInteraction180_64.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\GestureDefinition\bin\Release\GestureDefinition.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\GestureDefinition\bin\Release\GestureDefinition.pdb
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\GestureDefinition\bin\Release\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\GestureDefinition\bin\Release\Microsoft.Kinect.Toolkit.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\GestureDefinition\bin\Release\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\GestureDefinition\bin\Release\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\GestureDefinition\bin\Release\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\GestureDefinition\obj\Release\GestureDefinition.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\GestureDefinition\obj\Release\GestureDefinition.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\GestureDefinition\obj\Release\GestureDefinition.pdb

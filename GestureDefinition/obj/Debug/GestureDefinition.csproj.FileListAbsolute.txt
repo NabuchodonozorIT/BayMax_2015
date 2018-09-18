@@ -1,0 +1,174 @@
+E:\KinectControls - Gesture\GestureDefinition\bin\Debug\KinectInteraction180_32.dll
+E:\KinectControls - Gesture\GestureDefinition\bin\Debug\KinectInteraction180_64.dll
+E:\KinectControls - Gesture\GestureDefinition\bin\Debug\GestureDefinition.dll
+E:\KinectControls - Gesture\GestureDefinition\bin\Debug\GestureDefinition.pdb
+E:\KinectControls - Gesture\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+E:\KinectControls - Gesture\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.dll
+E:\KinectControls - Gesture\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+E:\KinectControls - Gesture\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+E:\KinectControls - Gesture\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+E:\KinectControls - Gesture\GestureDefinition\obj\Debug\GestureDefinition.csprojResolveAssemblyReference.cache
+E:\KinectControls - Gesture\GestureDefinition\obj\Debug\GestureDefinition.dll
+E:\KinectControls - Gesture\GestureDefinition\obj\Debug\GestureDefinition.pdb
+C:\Users\Mariusz.konior\Desktop\KinectControls - Gesture\GestureDefinition\bin\Debug\KinectInteraction180_32.dll
+C:\Users\Mariusz.konior\Desktop\KinectControls - Gesture\GestureDefinition\bin\Debug\KinectInteraction180_64.dll
+C:\Users\Mariusz.konior\Desktop\KinectControls - Gesture\GestureDefinition\bin\Debug\GestureDefinition.dll
+C:\Users\Mariusz.konior\Desktop\KinectControls - Gesture\GestureDefinition\bin\Debug\GestureDefinition.pdb
+C:\Users\Mariusz.konior\Desktop\KinectControls - Gesture\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Mariusz.konior\Desktop\KinectControls - Gesture\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Mariusz.konior\Desktop\KinectControls - Gesture\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Mariusz.konior\Desktop\KinectControls - Gesture\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Mariusz.konior\Desktop\KinectControls - Gesture\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Mariusz.konior\Desktop\KinectControls - Gesture\GestureDefinition\obj\Debug\GestureDefinition.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz.konior\Desktop\KinectControls - Gesture\GestureDefinition\obj\Debug\GestureDefinition.dll
+C:\Users\Mariusz.konior\Desktop\KinectControls - Gesture\GestureDefinition\obj\Debug\GestureDefinition.pdb
+C:\Users\Mariusz.konior\Desktop\Kinect Gesture Full\GestureDefinition\bin\Debug\KinectInteraction180_32.dll
+C:\Users\Mariusz.konior\Desktop\Kinect Gesture Full\GestureDefinition\bin\Debug\KinectInteraction180_64.dll
+C:\Users\Mariusz.konior\Desktop\Kinect Gesture Full\GestureDefinition\bin\Debug\GestureDefinition.dll
+C:\Users\Mariusz.konior\Desktop\Kinect Gesture Full\GestureDefinition\bin\Debug\GestureDefinition.pdb
+C:\Users\Mariusz.konior\Desktop\Kinect Gesture Full\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Mariusz.konior\Desktop\Kinect Gesture Full\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Mariusz.konior\Desktop\Kinect Gesture Full\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Mariusz.konior\Desktop\Kinect Gesture Full\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Mariusz.konior\Desktop\Kinect Gesture Full\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Mariusz.konior\Desktop\Kinect Gesture Full\GestureDefinition\obj\Debug\GestureDefinition.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz.konior\Desktop\Kinect Gesture Full\GestureDefinition\obj\Debug\GestureDefinition.dll
+C:\Users\Mariusz.konior\Desktop\Kinect Gesture Full\GestureDefinition\obj\Debug\GestureDefinition.pdb
+C:\Users\Mariusz.konior\Desktop\FINISH\Kinect Gesture Full\GestureDefinition\bin\Debug\KinectInteraction180_32.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\Kinect Gesture Full\GestureDefinition\bin\Debug\KinectInteraction180_64.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\Kinect Gesture Full\GestureDefinition\bin\Debug\GestureDefinition.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\Kinect Gesture Full\GestureDefinition\bin\Debug\GestureDefinition.pdb
+C:\Users\Mariusz.konior\Desktop\FINISH\Kinect Gesture Full\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\Kinect Gesture Full\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\Kinect Gesture Full\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\Kinect Gesture Full\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Mariusz.konior\Desktop\FINISH\Kinect Gesture Full\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Mariusz.konior\Desktop\FINISH\Kinect Gesture Full\GestureDefinition\obj\Debug\GestureDefinition.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz.konior\Desktop\FINISH\Kinect Gesture Full\GestureDefinition\obj\Debug\GestureDefinition.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\Kinect Gesture Full\GestureDefinition\obj\Debug\GestureDefinition.pdb
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\GestureDefinition\bin\Debug\KinectInteraction180_32.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\GestureDefinition\bin\Debug\KinectInteraction180_64.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\GestureDefinition\bin\Debug\GestureDefinition.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\GestureDefinition\bin\Debug\GestureDefinition.pdb
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\GestureDefinition\obj\Debug\GestureDefinition.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\GestureDefinition\obj\Debug\GestureDefinition.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\GestureDefinition\obj\Debug\GestureDefinition.pdb
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\GestureDefinition\bin\Debug\KinectInteraction180_32.dll
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\GestureDefinition\bin\Debug\KinectInteraction180_64.dll
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\GestureDefinition\bin\Debug\GestureDefinition.dll
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\GestureDefinition\bin\Debug\GestureDefinition.pdb
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\GestureDefinition\obj\Debug\GestureDefinition.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\GestureDefinition\obj\Debug\GestureDefinition.dll
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\GestureDefinition\obj\Debug\GestureDefinition.pdb
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\GestureDefinition\bin\Debug\KinectInteraction180_32.dll
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\GestureDefinition\bin\Debug\KinectInteraction180_64.dll
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\GestureDefinition\bin\Debug\GestureDefinition.dll
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\GestureDefinition\bin\Debug\GestureDefinition.pdb
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\GestureDefinition\obj\Debug\GestureDefinition.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\GestureDefinition\obj\Debug\GestureDefinition.dll
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\GestureDefinition\obj\Debug\GestureDefinition.pdb
+C:\Users\Mariusz\Desktop\I am God\DigitalSignageBaymax\GestureDefinition\bin\Debug\KinectInteraction180_32.dll
+C:\Users\Mariusz\Desktop\I am God\DigitalSignageBaymax\GestureDefinition\bin\Debug\KinectInteraction180_64.dll
+C:\Users\Mariusz\Desktop\I am God\DigitalSignageBaymax\GestureDefinition\bin\Debug\GestureDefinition.dll
+C:\Users\Mariusz\Desktop\I am God\DigitalSignageBaymax\GestureDefinition\bin\Debug\GestureDefinition.pdb
+C:\Users\Mariusz\Desktop\I am God\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Mariusz\Desktop\I am God\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Mariusz\Desktop\I am God\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Speech.dll
+C:\Users\Mariusz\Desktop\I am God\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Mariusz\Desktop\I am God\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Mariusz\Desktop\I am God\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Mariusz\Desktop\I am God\DigitalSignageBaymax\GestureDefinition\obj\Debug\GestureDefinition.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz\Desktop\I am God\DigitalSignageBaymax\GestureDefinition\obj\Debug\GestureDefinition.dll
+C:\Users\Mariusz\Desktop\I am God\DigitalSignageBaymax\GestureDefinition\obj\Debug\GestureDefinition.pdb
+F:\DigitalSignageBaymax\GestureDefinition\bin\Debug\KinectInteraction180_32.dll
+F:\DigitalSignageBaymax\GestureDefinition\bin\Debug\KinectInteraction180_64.dll
+F:\DigitalSignageBaymax\GestureDefinition\bin\Debug\GestureDefinition.dll
+F:\DigitalSignageBaymax\GestureDefinition\bin\Debug\GestureDefinition.pdb
+F:\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.dll
+F:\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+F:\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.dll
+F:\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Speech.dll
+F:\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+F:\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+F:\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+F:\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.xml
+F:\DigitalSignageBaymax\GestureDefinition\obj\Debug\GestureDefinition.csprojResolveAssemblyReference.cache
+F:\DigitalSignageBaymax\GestureDefinition\obj\Debug\GestureDefinition.dll
+F:\DigitalSignageBaymax\GestureDefinition\obj\Debug\GestureDefinition.pdb
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\GestureDefinition\bin\Debug\Dictionary\Grammar.xml
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\GestureDefinition\bin\Debug\KinectInteraction180_32.dll
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\GestureDefinition\bin\Debug\KinectInteraction180_64.dll
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\GestureDefinition\bin\Debug\Dictionary\Grammar.xml
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\GestureDefinition\bin\Debug\GestureDefinition.dll
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\GestureDefinition\bin\Debug\GestureDefinition.pdb
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Speech.dll
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\GestureDefinition\obj\Debug\GestureDefinition.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\GestureDefinition\obj\Debug\GestureDefinition.dll
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\GestureDefinition\obj\Debug\GestureDefinition.pdb
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\GestureDefinition\bin\Debug\KinectInteraction180_32.dll
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\GestureDefinition\bin\Debug\KinectInteraction180_64.dll
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\GestureDefinition\bin\Debug\Dictionary\Grammar.xml
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\GestureDefinition\bin\Debug\GestureDefinition.dll
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\GestureDefinition\bin\Debug\GestureDefinition.pdb
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Speech.dll
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\GestureDefinition\obj\Debug\GestureDefinition.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\GestureDefinition\obj\Debug\GestureDefinition.dll
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\GestureDefinition\obj\Debug\GestureDefinition.pdb
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\GestureDefinition\bin\Debug\KinectInteraction180_32.dll
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\GestureDefinition\bin\Debug\KinectInteraction180_64.dll
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\GestureDefinition\bin\Debug\Dictionary\Grammar.xml
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\GestureDefinition\bin\Debug\GestureDefinition.dll
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\GestureDefinition\bin\Debug\GestureDefinition.pdb
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Speech.dll
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\GestureDefinition\obj\Debug\GestureDefinition.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\GestureDefinition\obj\Debug\GestureDefinition.dll
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\GestureDefinition\obj\Debug\GestureDefinition.pdb
+E:\Google Drive\Possible\DigitalSignageBaymax\GestureDefinition\bin\Debug\Dictionary\Grammar.xml
+E:\Google Drive\Possible\DigitalSignageBaymax\GestureDefinition\bin\Debug\KinectInteraction180_32.dll
+E:\Google Drive\Possible\DigitalSignageBaymax\GestureDefinition\bin\Debug\KinectInteraction180_64.dll
+E:\Google Drive\Possible\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+E:\Google Drive\Possible\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.dll
+E:\Google Drive\Possible\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Speech.dll
+E:\Google Drive\Possible\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+E:\Google Drive\Possible\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+E:\Google Drive\Possible\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+E:\Google Drive\Possible\DigitalSignageBaymax\GestureDefinition\bin\Debug\Microsoft.Kinect.xml
+E:\Google Drive\Possible\DigitalSignageBaymax\GestureDefinition\obj\Debug\GestureDefinition.csprojResolveAssemblyReference.cache
+E:\Google Drive\Possible\DigitalSignageBaymax\GestureDefinition\obj\Debug\GestureDefinition.dll
+E:\Google Drive\Possible\DigitalSignageBaymax\GestureDefinition\obj\Debug\GestureDefinition.pdb

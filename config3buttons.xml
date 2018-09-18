@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--v.1-->
+<Config>
+  <Buttons>
+    <Button id="0" Icon="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\BUTTON_ICONS\dronikon.png" Event="ExeOpenWithParameter" IdContent="Content Main" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\VirtualTourLVL4\virtualtour.swf" Path1="C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" Path2="--kiosk" EventStartUp="false" WindowSize="2 : 2" />
+    <Button id="1" Icon="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\BUTTON_ICONS\M2D.jpg" Event="Movie" IdContent="Content Main" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\MOVIE\M2.mp4" Path1="" Path2="" EventStartUp="true" WindowSize="2 : 2" />
+    <Button id="7" Icon="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\BUTTON_ICONS\M6D.jpg" Event="Gallery" IdContent="Content Main" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\M6" Path1="jpg" Path2="" EventStartUp="false" WindowSize="2 : 2" />
+  </Buttons>
+  <BackGrounds>
+    <BackGround id="BackGround" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\BACKGROUNDS\background.jpg" />
+    <BackGround id="Gallery" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\BACKGROUNDS\background.jpg" />
+    <BackGround id="InteractiveImages" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\BACKGROUNDS\background.jpg" />
+    <BackGround id="OpenWWWPage" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\BACKGROUNDS\background.jpg" />
+    <BackGround id="Game" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\BACKGROUNDS\background.jpg" />
+    <BackGround id="BackGroundMain" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\BACKGROUNDS\background.jpg" />
+    <BackGround id="BackGroundRingAnimation" Source="" />
+    <BackGround id="ShutDown" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\SCRENSAVER\shutdown.png" />
+    <BackGround id="Movie" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\BACKGROUNDS\background.jpg" />
+  </BackGrounds>
+  <ContentTexts />
+  <Tutorials>
+    <Tutorial id="Gallery" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\TUTORILS\Microsoft Kinect Learns to Read Hand Gestures.mp4" Volue="0,0" Active="false" Type="false"/>
+    <Tutorial id="GamePlug" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\TUTORILS\Microsoft Kinect Learns to Read Hand Gestures.mp4" Volue="0,0" Active="false" Type="false"/>
+    <Tutorial id="InteractiveImages" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\TUTORILS\Microsoft Kinect Learns to Read Hand Gestures.mp4" Volue="0,0" Active="false" Type="false"/>
+    <Tutorial id="Movie" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\TUTORILS\Microsoft Kinect Learns to Read Hand Gestures.mp4" Volue="0,0" Active="false" Type="false"/>
+    <Tutorial id="OpenOutProgram" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\TUTORILS\Microsoft Kinect Learns to Read Hand Gestures.mp4" Volue="0,0" Active="false" Type="false"/>
+    <Tutorial id="OpenWeb" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\TUTORILS\Microsoft Kinect Learns to Read Hand Gestures.mp4" Volue="0,0" Active="false" Type="true"/>
+  </Tutorials>
+  <WaterMarks>
+    <WaterMark id="WaterMarkMovie" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\WATERMARKS/play_button.png" />
+    <WaterMark id="WaterMarkOutSideProgram" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\WATERMARKS\exe.png" />
+    <WaterMark id="WaterMarkGallery" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\WATERMARKS\gallery.png" />
+    <WaterMark id="WaterMarkInteractiveImages" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\WATERMARKS\zoomoutin.png" />
+    <WaterMark id="WaterMarkOpenWeb" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\WATERMARKS\www.png" />
+    <WaterMark id="WaterMarkGalleryParseFromFile" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\WATERMARKS\gallery.png" />
+    <WaterMark id="WaterMarkExitMark" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\ICONS/exitmark.png" />
+    <WaterMark id="WaterMarkNextMark" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\nextmark.png" />
+    <WaterMark id="WaterMarkPrevMark" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\prevmark.jpg" />
+  </WaterMarks>
+  <Logos>
+    <Logo id="LogoLeft" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\ICONS\POSSIBLE.png" />
+    <Logo id="MainLogo" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\ICONS\POSSIBLE.png" />
+    <Logo id="OffLogo" Source="C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\MEDIA\ICONS\POSSIBLE.png" />
+  </Logos>
+  <Gestures>
+    <Gesture id="VOLUME/ZOOM" enable="true" />
+    <Gesture id="EXIT" enable="true" />
+    <Gesture id="SYMULATE MOUSE CLIK" enable="true" />
+    <Gesture id="DOWN" enable="true" />
+    <Gesture id="LEFT" enable="true" />
+    <Gesture id="RIGHT" enable="true" />
+    <Gesture id="UP" enable="true" />
+    <Gesture id="MINIMALIZE" enable="true" />
+    <Gesture id="MAXYMALIZE" enable="true" />
+    <Gesture id="OPEN WEB" enable="true" />
+    <Gesture id="NEXT" enable="true" />
+    <Gesture id="PRIEV" enable="true" />
+    <Gesture id="POSSIBLE" enable="true" />
+  </Gestures>
+  <AccessTokenTwiits>
+    <AccessTokenTwiit OAuthConsumerKey="QJzxBHx4n0fsfZceJYw7P6mxZ" OAuthConsumerSecret="E0VR0xPc3GtKKiC6jLySEMQv8LItS9ReGBG6F3dXbploqolzJ7" />
+  </AccessTokenTwiits>
+  <Movies>
+    <Movie id="MovieOne" Icon="" Source="" />
+    <Movie id="MovieMain" Icon="" Source="" />
+  </Movies>
+  <Layouts>
+    <Layout WidthButton="270" HeightButton="270" HorizontalVertical="false" Animation="false" Opacity="0,9" BorderBrush="#FF33FF" TimeWatingScreenSaver="60" ScreenEvent="false" SpeedGallery="15"  HorizontalAlignment="Center"/>
+  </Layouts>
+</Config>

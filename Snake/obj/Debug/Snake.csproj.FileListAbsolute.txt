@@ -1,0 +1,86 @@
+C:\Users\Mariusz.konior\Desktop\FINISH\SNAKE - PLUG\Snake\Snake\bin\Debug\KinectInteraction180_32.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\SNAKE - PLUG\Snake\Snake\bin\Debug\KinectInteraction180_64.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\SNAKE - PLUG\Snake\Snake\bin\Debug\Snake.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\SNAKE - PLUG\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\Mariusz.konior\Desktop\FINISH\SNAKE - PLUG\Snake\Snake\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\SNAKE - PLUG\Snake\Snake\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\SNAKE - PLUG\Snake\Snake\bin\Debug\PluginInterface.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\SNAKE - PLUG\Snake\Snake\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\SNAKE - PLUG\Snake\Snake\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Mariusz.konior\Desktop\FINISH\SNAKE - PLUG\Snake\Snake\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Mariusz.konior\Desktop\FINISH\SNAKE - PLUG\Snake\Snake\bin\Debug\PluginInterface.pdb
+C:\Users\Mariusz.konior\Desktop\FINISH\SNAKE - PLUG\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz.konior\Desktop\FINISH\SNAKE - PLUG\Snake\Snake\obj\Debug\Snake.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\SNAKE - PLUG\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Snake\bin\Debug\KinectInteraction180_32.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Snake\bin\Debug\KinectInteraction180_64.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Snake\bin\Debug\Snake.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Snake\bin\Debug\Snake.pdb
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Snake\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Snake\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Snake\bin\Debug\PluginInterface.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Snake\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Snake\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Snake\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Snake\bin\Debug\PluginInterface.pdb
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Snake\obj\Debug\Snake.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Snake\obj\Debug\Snake.pdb
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Plugins\KinectInteraction180_32.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Plugins\KinectInteraction180_64.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Plugins\Snake.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Plugins\Snake.pdb
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Snake\bin\Debug\Plugins\KinectInteraction180_32.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Snake\bin\Debug\Plugins\KinectInteraction180_64.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Snake\bin\Debug\Plugins\Snake.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Snake\bin\Debug\Plugins\Snake.pdb
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Snake\bin\Debug\Plugins\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Snake\bin\Debug\Plugins\Microsoft.Kinect.Toolkit.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Snake\bin\Debug\Plugins\PluginInterface.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Snake\bin\Debug\Plugins\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Snake\bin\Debug\Plugins\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Snake\bin\Debug\Plugins\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Snake\bin\Debug\Plugins\PluginInterface.pdb
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\Snake\bin\Debug\Plugins\KinectInteraction180_32.dll
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\Snake\bin\Debug\Plugins\KinectInteraction180_64.dll
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\Snake\bin\Debug\Plugins\Snake.dll
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\Snake\bin\Debug\Plugins\Snake.pdb
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\Snake\bin\Debug\Plugins\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\Snake\bin\Debug\Plugins\Microsoft.Kinect.Toolkit.dll
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\Snake\bin\Debug\Plugins\PluginInterface.dll
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\Snake\bin\Debug\Plugins\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\Snake\bin\Debug\Plugins\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\Snake\bin\Debug\Plugins\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\Snake\bin\Debug\Plugins\PluginInterface.pdb
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\Snake\obj\Debug\Snake.dll
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\Snake\obj\Debug\Snake.pdb
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\KinectInteraction180_32.dll
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\KinectInteraction180_64.dll
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Snake.dll
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Snake.pdb
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\Snake\obj\Debug\Snake.dll
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\Snake\obj\Debug\Snake.pdb
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Plugins\KinectInteraction180_32.dll
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Plugins\KinectInteraction180_64.dll
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Plugins\Snake.dll
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Plugins\Snake.pdb
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Plugins\KinectInteraction180_32.dll
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Plugins\KinectInteraction180_64.dll
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Plugins\Snake.dll
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Plugins\Snake.pdb
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\Snake\obj\Debug\Snake.dll
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\Snake\obj\Debug\Snake.pdb
+E:\Masterpiece\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Plugins\KinectInteraction180_32.dll
+E:\Masterpiece\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Plugins\KinectInteraction180_64.dll
+E:\Masterpiece\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Plugins\Snake.dll
+E:\Masterpiece\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Plugins\Snake.pdb
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Plugins\KinectInteraction180_32.dll
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Plugins\KinectInteraction180_64.dll
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Plugins\Snake.dll
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Plugins\Snake.pdb
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\Snake\obj\Debug\Snake.dll
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\Snake\obj\Debug\Snake.pdb

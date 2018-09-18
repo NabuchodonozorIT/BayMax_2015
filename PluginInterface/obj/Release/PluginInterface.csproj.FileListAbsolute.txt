@@ -1,0 +1,4 @@
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\PluginInterface\bin\Release\PluginInterface.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\PluginInterface\bin\Release\PluginInterface.pdb
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\PluginInterface\obj\Release\PluginInterface.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\PluginInterface\obj\Release\PluginInterface.pdb

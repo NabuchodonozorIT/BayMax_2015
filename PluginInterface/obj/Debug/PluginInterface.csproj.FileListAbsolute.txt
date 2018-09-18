@@ -1,0 +1,47 @@
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\PluginInterface\bin\Debug\PluginInterface.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\PluginInterface\bin\Debug\PluginInterface.pdb
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\PluginInterface\obj\Debug\PluginInterface.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\PluginInterface\obj\Debug\PluginInterface.pdb
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\PluginInterface\obj\Debug\PluginInterface.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\PluginInterface\bin\Debug\PluginInterface.dll
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\PluginInterface\bin\Debug\PluginInterface.pdb
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\PluginInterface\obj\Debug\PluginInterface.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\PluginInterface\obj\Debug\PluginInterface.dll
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\PluginInterface\obj\Debug\PluginInterface.pdb
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\PluginInterface\bin\Debug\PluginInterface.dll
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\PluginInterface\bin\Debug\PluginInterface.pdb
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\PluginInterface\obj\Debug\PluginInterface.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\PluginInterface\obj\Debug\PluginInterface.dll
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\PluginInterface\obj\Debug\PluginInterface.pdb
+F:\DigitalSignageBaymax\PluginInterface\bin\Debug\PluginInterface.dll
+F:\DigitalSignageBaymax\PluginInterface\bin\Debug\PluginInterface.pdb
+F:\DigitalSignageBaymax\PluginInterface\obj\Debug\PluginInterface.csprojResolveAssemblyReference.cache
+F:\DigitalSignageBaymax\PluginInterface\obj\Debug\PluginInterface.dll
+F:\DigitalSignageBaymax\PluginInterface\obj\Debug\PluginInterface.pdb
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\PluginInterface\bin\Debug\PluginInterface.dll
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\PluginInterface\bin\Debug\PluginInterface.pdb
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\PluginInterface\bin\Debug\RestSharp.dll
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\PluginInterface\bin\Debug\RestSharp.xml
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\PluginInterface\obj\Debug\PluginInterface.dll
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\PluginInterface\obj\Debug\PluginInterface.pdb
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\PluginInterface\bin\Debug\PluginInterface.dll
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\PluginInterface\bin\Debug\PluginInterface.pdb
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\PluginInterface\bin\Debug\RestSharp.dll
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\PluginInterface\bin\Debug\RestSharp.xml
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\PluginInterface\obj\Debug\PluginInterface.dll
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\PluginInterface\obj\Debug\PluginInterface.pdb
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\PluginInterface\obj\Debug\PluginInterface.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\PluginInterface\bin\Debug\PluginInterface.dll
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\PluginInterface\bin\Debug\PluginInterface.pdb
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\PluginInterface\bin\Debug\RestSharp.dll
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\PluginInterface\bin\Debug\RestSharp.xml
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\PluginInterface\obj\Debug\PluginInterface.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\PluginInterface\obj\Debug\PluginInterface.dll
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\PluginInterface\obj\Debug\PluginInterface.pdb
+E:\Google Drive\Possible\DigitalSignageBaymax\PluginInterface\bin\Debug\PluginInterface.dll
+E:\Google Drive\Possible\DigitalSignageBaymax\PluginInterface\bin\Debug\PluginInterface.pdb
+E:\Google Drive\Possible\DigitalSignageBaymax\PluginInterface\bin\Debug\RestSharp.dll
+E:\Google Drive\Possible\DigitalSignageBaymax\PluginInterface\bin\Debug\RestSharp.xml
+E:\Google Drive\Possible\DigitalSignageBaymax\PluginInterface\obj\Debug\PluginInterface.csprojResolveAssemblyReference.cache
+E:\Google Drive\Possible\DigitalSignageBaymax\PluginInterface\obj\Debug\PluginInterface.dll
+E:\Google Drive\Possible\DigitalSignageBaymax\PluginInterface\obj\Debug\PluginInterface.pdb

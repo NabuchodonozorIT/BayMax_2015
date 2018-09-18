@@ -1,0 +1,676 @@
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\MainWindow.baml
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\MainWindow.g.cs
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\App.g.cs
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax_MarkupCompile.cache
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.g.resources
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.Properties.Resources.resources
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.csproj.GenerateResource.Cache
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\KinectInteraction180_32.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\KinectInteraction180_64.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\DigitalSignageBaymax.exe
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\DigitalSignageBaymax.pdb
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\GestureDefinition.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\GestureDefinition.pdb
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax_MarkupCompile.lref
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.exe
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.pdb
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\Brand_Reel.mp4
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax_Content.g.cs
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\POSSIBLE.mp4
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\SetTheSize.baml
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\SetTheSize.g.cs
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\PluginInterface.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\PluginInterface.pdb
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.exe
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.pdb
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\KinectInteraction180_32.dll
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\KinectInteraction180_64.dll
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\POSSIBLE.mp4
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\Brand_Reel.mp4
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\DigitalSignageBaymax.exe
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\DigitalSignageBaymax.pdb
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\GestureDefinition.dll
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\PluginInterface.dll
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\GestureDefinition.pdb
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\PluginInterface.pdb
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\SetTheSize.baml
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\MainWindow.g.cs
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\SetTheSize.g.cs
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\App.g.cs
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax_Content.g.cs
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax_MarkupCompile.cache
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax_MarkupCompile.lref
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\MainWindow.baml
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.g.resources
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.Properties.Resources.resources
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.csproj.GenerateResource.Cache
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.exe
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.pdb
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\KinectInteraction180_32.dll
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\KinectInteraction180_64.dll
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\POSSIBLE.mp4
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\Brand_Reel.mp4
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\DigitalSignageBaymax.exe
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\DigitalSignageBaymax.pdb
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\GestureDefinition.dll
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\PluginInterface.dll
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\GestureDefinition.pdb
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\PluginInterface.pdb
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\SetTheSize.baml
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\MainWindow.g.cs
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\SetTheSize.g.cs
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\App.g.cs
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax_Content.g.cs
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax_MarkupCompile.cache
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax_MarkupCompile.lref
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\MainWindow.baml
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.g.resources
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.Properties.Resources.resources
+C:\Users\Mariusz.konior\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.csproj.GenerateResource.Cache
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.exe
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.pdb
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\KinectInteraction180_32.dll
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\KinectInteraction180_64.dll
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\DigitalSignageBaymax.exe
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\DigitalSignageBaymax.pdb
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\GestureDefinition.dll
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\PluginInterface.dll
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\GestureDefinition.pdb
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\PluginInterface.pdb
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\MainWindow.g.cs
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\App.g.cs
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax_MarkupCompile.cache
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax_MarkupCompile.lref
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\MainWindow.baml
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.g.resources
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.Properties.Resources.resources
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.csproj.GenerateResource.Cache
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\InputSimulator.dll
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\InputSimulator.pdb
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\InputSimulator.xml
+C:\Users\Mariusz\Desktop\I am God\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.exe
+C:\Users\Mariusz\Desktop\I am God\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.pdb
+C:\Users\Mariusz\Desktop\I am God\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\KinectInteraction180_32.dll
+C:\Users\Mariusz\Desktop\I am God\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\KinectInteraction180_64.dll
+C:\Users\Mariusz\Desktop\I am God\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\POSSIBLE.mp4
+C:\Users\Mariusz\Desktop\I am God\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\Brand_Reel.mp4
+C:\Users\Mariusz\Desktop\I am God\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\Digital Signage.xps
+C:\Users\Mariusz\Desktop\I am God\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\DigitalSignage.pptx
+C:\Users\Mariusz\Desktop\I am God\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\DigitalSignageBaymax.exe
+C:\Users\Mariusz\Desktop\I am God\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\DigitalSignageBaymax.pdb
+C:\Users\Mariusz\Desktop\I am God\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\GestureDefinition.dll
+C:\Users\Mariusz\Desktop\I am God\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\InputSimulator.dll
+C:\Users\Mariusz\Desktop\I am God\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Mariusz\Desktop\I am God\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Mariusz\Desktop\I am God\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\PluginInterface.dll
+C:\Users\Mariusz\Desktop\I am God\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Speech.dll
+C:\Users\Mariusz\Desktop\I am God\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Mariusz\Desktop\I am God\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\GestureDefinition.pdb
+C:\Users\Mariusz\Desktop\I am God\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Mariusz\Desktop\I am God\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Mariusz\Desktop\I am God\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\PluginInterface.pdb
+C:\Users\Mariusz\Desktop\I am God\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\InputSimulator.pdb
+C:\Users\Mariusz\Desktop\I am God\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\InputSimulator.xml
+C:\Users\Mariusz\Desktop\I am God\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz\Desktop\I am God\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\SetTheSize.baml
+C:\Users\Mariusz\Desktop\I am God\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\MainWindow.g.cs
+C:\Users\Mariusz\Desktop\I am God\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\SetTheSize.g.cs
+C:\Users\Mariusz\Desktop\I am God\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\App.g.cs
+C:\Users\Mariusz\Desktop\I am God\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax_Content.g.cs
+C:\Users\Mariusz\Desktop\I am God\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mariusz\Desktop\I am God\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax_MarkupCompile.cache
+C:\Users\Mariusz\Desktop\I am God\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax_MarkupCompile.lref
+C:\Users\Mariusz\Desktop\I am God\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\MainWindow.baml
+C:\Users\Mariusz\Desktop\I am God\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.g.resources
+C:\Users\Mariusz\Desktop\I am God\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.Properties.Resources.resources
+C:\Users\Mariusz\Desktop\I am God\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.csproj.GenerateResource.Cache
+C:\Users\Mariusz\Desktop\I am God\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\DigitalSignageProgres.pptx
+C:\Users\Mariusz.konior\Desktop\Main Project 06;08\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.exe
+C:\Users\Mariusz.konior\Desktop\Main Project 06;08\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.pdb
+C:\Users\Mariusz.konior\Desktop\Main Project 06;08\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz.konior\Desktop\Main Project 06;08\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\SetTheSize.baml
+C:\Users\Mariusz.konior\Desktop\Main Project 06;08\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\MainWindow.g.cs
+C:\Users\Mariusz.konior\Desktop\Main Project 06;08\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\SetTheSize.g.cs
+C:\Users\Mariusz.konior\Desktop\Main Project 06;08\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\App.g.cs
+C:\Users\Mariusz.konior\Desktop\Main Project 06;08\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax_Content.g.cs
+C:\Users\Mariusz.konior\Desktop\Main Project 06;08\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mariusz.konior\Desktop\Main Project 06;08\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax_MarkupCompile.cache
+C:\Users\Mariusz.konior\Desktop\Main Project 06;08\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax_MarkupCompile.lref
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\HtmlAgilityPack.xml
+F:\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.exe
+F:\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.pdb
+F:\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\KinectInteraction180_32.dll
+F:\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\KinectInteraction180_64.dll
+F:\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\Example.mp3
+F:\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Plugins\IPlugSnake.dll
+F:\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Plugins\IPlugSnake.pdb
+F:\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\POSSIBLE.mp4
+F:\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\Brand_Reel.mp4
+F:\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\Digital Signage.xps
+F:\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\DigitalSignage.pptx
+F:\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\DigitalSignageProgres.pptx
+F:\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\DigitalSignageBaymax.exe
+F:\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\DigitalSignageBaymax.pdb
+F:\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\GestureDefinition.dll
+F:\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\HtmlAgilityPack.dll
+F:\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\InputSimulator.dll
+F:\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.dll
+F:\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+F:\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.dll
+F:\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Newtonsoft.Json.dll
+F:\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\PluginInterface.dll
+F:\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Speech.dll
+F:\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+F:\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\GestureDefinition.pdb
+F:\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+F:\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+F:\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\PluginInterface.pdb
+F:\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\HtmlAgilityPack.pdb
+F:\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\HtmlAgilityPack.xml
+F:\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\InputSimulator.pdb
+F:\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\InputSimulator.xml
+F:\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Newtonsoft.Json.xml
+F:\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.csprojResolveAssemblyReference.cache
+F:\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\SetTheSize.baml
+F:\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\MainWindow.g.cs
+F:\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\SetTheSize.g.cs
+F:\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\App.g.cs
+F:\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax_Content.g.cs
+F:\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax_MarkupCompile.cache
+F:\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax_MarkupCompile.lref
+F:\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\MainWindow.baml
+F:\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.g.resources
+F:\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.Properties.Resources.resources
+F:\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.csproj.GenerateResource.Cache
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\Example.mp3
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Plugins\IPlugSnake.dll
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Plugins\IPlugSnake.pdb
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\Digital Signage.xps
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\DigitalSignage.pptx
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\DigitalSignageProgres.pptx
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\InputSimulator.dll
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Speech.dll
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\InputSimulator.pdb
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\InputSimulator.xml
+C:\Users\Mariusz\Desktop\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mariusz.konior\Desktop\twitter-master2\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.exe
+C:\Users\Mariusz.konior\Desktop\twitter-master2\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.pdb
+C:\Users\Mariusz.konior\Desktop\twitter-master2\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\KinectInteraction180_32.dll
+C:\Users\Mariusz.konior\Desktop\twitter-master2\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\KinectInteraction180_64.dll
+C:\Users\Mariusz.konior\Desktop\twitter-master2\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\Example.mp3
+C:\Users\Mariusz.konior\Desktop\twitter-master2\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Plugins\IPlugSnake.dll
+C:\Users\Mariusz.konior\Desktop\twitter-master2\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Plugins\IPlugSnake.pdb
+C:\Users\Mariusz.konior\Desktop\twitter-master2\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\POSSIBLE.mp4
+C:\Users\Mariusz.konior\Desktop\twitter-master2\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\Brand_Reel.mp4
+C:\Users\Mariusz.konior\Desktop\twitter-master2\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\Digital Signage.xps
+C:\Users\Mariusz.konior\Desktop\twitter-master2\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\DigitalSignage.pptx
+C:\Users\Mariusz.konior\Desktop\twitter-master2\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\DigitalSignageProgres.pptx
+C:\Users\Mariusz.konior\Desktop\twitter-master2\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\DigitalSignageBaymax.exe
+C:\Users\Mariusz.konior\Desktop\twitter-master2\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\DigitalSignageBaymax.pdb
+C:\Users\Mariusz.konior\Desktop\twitter-master2\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\GestureDefinition.dll
+C:\Users\Mariusz.konior\Desktop\twitter-master2\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Mariusz.konior\Desktop\twitter-master2\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\InputSimulator.dll
+C:\Users\Mariusz.konior\Desktop\twitter-master2\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Mariusz.konior\Desktop\twitter-master2\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Mariusz.konior\Desktop\twitter-master2\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mariusz.konior\Desktop\twitter-master2\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\PluginInterface.dll
+C:\Users\Mariusz.konior\Desktop\twitter-master2\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Speech.dll
+C:\Users\Mariusz.konior\Desktop\twitter-master2\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Mariusz.konior\Desktop\twitter-master2\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\GestureDefinition.pdb
+C:\Users\Mariusz.konior\Desktop\twitter-master2\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Mariusz.konior\Desktop\twitter-master2\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Mariusz.konior\Desktop\twitter-master2\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\PluginInterface.pdb
+C:\Users\Mariusz.konior\Desktop\twitter-master2\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Mariusz.konior\Desktop\twitter-master2\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Mariusz.konior\Desktop\twitter-master2\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\InputSimulator.pdb
+C:\Users\Mariusz.konior\Desktop\twitter-master2\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\InputSimulator.xml
+C:\Users\Mariusz.konior\Desktop\twitter-master2\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mariusz.konior\Desktop\twitter-master2\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz.konior\Desktop\twitter-master2\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\SetTheSize.baml
+C:\Users\Mariusz.konior\Desktop\twitter-master2\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\MainWindow.g.cs
+C:\Users\Mariusz.konior\Desktop\twitter-master2\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\SetTheSize.g.cs
+C:\Users\Mariusz.konior\Desktop\twitter-master2\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\App.g.cs
+C:\Users\Mariusz.konior\Desktop\twitter-master2\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax_Content.g.cs
+C:\Users\Mariusz.konior\Desktop\twitter-master2\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mariusz.konior\Desktop\twitter-master2\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax_MarkupCompile.cache
+C:\Users\Mariusz.konior\Desktop\twitter-master2\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax_MarkupCompile.lref
+C:\Users\Mariusz.konior\Desktop\twitter-master2\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\MainWindow.baml
+C:\Users\Mariusz.konior\Desktop\twitter-master2\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.g.resources
+C:\Users\Mariusz.konior\Desktop\twitter-master2\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.Properties.Resources.resources
+C:\Users\Mariusz.konior\Desktop\twitter-master2\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.csproj.GenerateResource.Cache
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\DigitalSignageBaymax.exe.config
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\iTwitter.dll
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\iTwitter.pdb
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Dictionary\Grammar.xml
+F:\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\DigitalSignageBaymax.exe.config
+F:\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.exe
+F:\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.pdb
+F:\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Dictionary\Grammar.xml
+F:\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\KinectInteraction180_32.dll
+F:\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\KinectInteraction180_64.dll
+F:\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\Example.mp3
+F:\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\POSSIBLE.mp4
+F:\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\Brand_Reel.mp4
+F:\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\Digital Signage.xps
+F:\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\DigitalSignage.pptx
+F:\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\DigitalSignageProgres.pptx
+F:\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\DigitalSignageBaymax.exe
+F:\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\DigitalSignageBaymax.pdb
+F:\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\GestureDefinition.dll
+F:\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\HtmlAgilityPack.dll
+F:\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\InputSimulator.dll
+F:\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\iTwitter.dll
+F:\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+F:\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.dll
+F:\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Newtonsoft.Json.dll
+F:\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\PluginInterface.dll
+F:\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+F:\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\GestureDefinition.pdb
+F:\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\iTwitter.pdb
+F:\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+F:\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+F:\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\PluginInterface.pdb
+F:\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\HtmlAgilityPack.pdb
+F:\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\HtmlAgilityPack.xml
+F:\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\InputSimulator.pdb
+F:\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\InputSimulator.xml
+F:\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Newtonsoft.Json.xml
+F:\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.csprojResolveAssemblyReference.cache
+F:\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\SetTheSize.baml
+F:\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\MainWindow.g.cs
+F:\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\SetTheSize.g.cs
+F:\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\App.g.cs
+F:\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax_Content.g.cs
+F:\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax_MarkupCompile.cache
+F:\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax_MarkupCompile.lref
+F:\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\MainWindow.baml
+F:\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.g.resources
+F:\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.Properties.Resources.resources
+F:\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.csproj.GenerateResource.Cache
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\DigitalSignageBaymax.exe.config
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.exe
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.pdb
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Dictionary\Grammar.xml
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\KinectInteraction180_32.dll
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\KinectInteraction180_64.dll
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\Example.mp3
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\POSSIBLE.mp4
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\Brand_Reel.mp4
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\Digital Signage.xps
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\DigitalSignage.pptx
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Plugins\IPlugSnake.dll
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Plugins\IPlugSnake.pdb
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\DigitalSignageProgres.pptx
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\DigitalSignageBaymax.exe
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\DigitalSignageBaymax.pdb
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\GestureDefinition.dll
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\InputSimulator.dll
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\iTwitter.dll
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\PluginInterface.dll
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\GestureDefinition.pdb
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\iTwitter.pdb
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\PluginInterface.pdb
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\InputSimulator.pdb
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\InputSimulator.xml
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\SetTheSize.baml
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\MainWindow.g.cs
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\SetTheSize.g.cs
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\App.g.cs
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax_Content.g.cs
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax_MarkupCompile.cache
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax_MarkupCompile.lref
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\MainWindow.baml
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.g.resources
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.Properties.Resources.resources
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.csproj.GenerateResource.Cache
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Speech.dll
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\DigitalSignageBaymax.exe.config
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.exe
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.pdb
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\KinectInteraction180_32.dll
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\KinectInteraction180_64.dll
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Dictionary\Grammar.xml
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\MOVIEII.mp4
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\MOVIEI.mp4
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\Example.mp3
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\POSSIBLE.mp4
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\Brand_Reel.mp4
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\Digital Signage.xps
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\DigitalSignage.pptx
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Plugins\IPlugSnake.dll
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Plugins\IPlugSnake.pdb
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\DigitalSignageProgres.pptx
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\DigitalSignageBaymax.exe
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\DigitalSignageBaymax.pdb
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\GestureDefinition.dll
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\InputSimulator.dll
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\iTwitter.dll
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Speech.dll
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\PluginInterface.dll
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\GestureDefinition.pdb
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\iTwitter.pdb
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\PluginInterface.pdb
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\InputSimulator.pdb
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\InputSimulator.xml
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\SetTheSize.baml
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\MainWindow.g.cs
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\SetTheSize.g.cs
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\TweeterContentMetro.g.cs
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\App.g.cs
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax_Content.g.cs
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax_MarkupCompile.cache
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax_MarkupCompile.lref
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\MainWindow.baml
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\TweeterContentMetro.baml
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.g.resources
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.Properties.Resources.resources
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.csproj.GenerateResource.Cache
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\DigitalSignageBaymax.exe.config
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.exe
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.pdb
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Dictionary\Grammar.xml
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\KinectInteraction180_32.dll
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\KinectInteraction180_64.dll
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\MOVIEII.mp4
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\MOVIEI.mp4
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\Example.mp3
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\POSSIBLE.mp4
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\Brand_Reel.mp4
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\Digital Signage.xps
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\DigitalSignage.pptx
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Plugins\IPlugSnake.dll
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Plugins\IPlugSnake.pdb
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\DigitalSignageProgres.pptx
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\DigitalSignageBaymax.exe
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\DigitalSignageBaymax.pdb
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\GestureDefinition.dll
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\HtmlAgilityPack.dll
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\InputSimulator.dll
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\iTwitter.dll
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.dll
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Newtonsoft.Json.dll
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\PluginInterface.dll
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\GestureDefinition.pdb
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\iTwitter.pdb
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\PluginInterface.pdb
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\HtmlAgilityPack.pdb
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\HtmlAgilityPack.xml
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\InputSimulator.pdb
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\InputSimulator.xml
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Newtonsoft.Json.xml
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.csprojResolveAssemblyReference.cache
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\SetTheSize.baml
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\MainWindow.g.cs
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\SetTheSize.g.cs
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\TweeterContentMetro.g.cs
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\App.g.cs
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax_Content.g.cs
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax_MarkupCompile.cache
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax_MarkupCompile.lref
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\MainWindow.baml
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\TweeterContentMetro.baml
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.g.resources
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.Properties.Resources.resources
+E:\COPY18\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.csproj.GenerateResource.Cache
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\DigitalSignageBaymax.exe.config
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.exe
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.pdb
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Dictionary\Grammar.xml
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\KinectInteraction180_32.dll
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\KinectInteraction180_64.dll
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\MOVIEII.mp4
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\MOVIEI.mp4
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\Example.mp3
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\POSSIBLE.mp4
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\Brand_Reel.mp4
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\Digital Signage.xps
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\DigitalSignage.pptx
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Plugins\IPlugSnake.dll
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Plugins\IPlugSnake.pdb
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Media\DigitalSignageProgres.pptx
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\DigitalSignageBaymax.exe
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\DigitalSignageBaymax.pdb
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\GestureDefinition.dll
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\InputSimulator.dll
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\iTwitter.dll
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Speech.dll
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\PluginInterface.dll
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\GestureDefinition.pdb
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\iTwitter.pdb
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\PluginInterface.pdb
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\InputSimulator.pdb
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\InputSimulator.xml
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\SetTheSize.baml
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\MainWindow.g.cs
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\SetTheSize.g.cs
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\TweeterContentMetro.g.cs
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\App.g.cs
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax_Content.g.cs
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax_MarkupCompile.cache
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax_MarkupCompile.lref
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\MainWindow.baml
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\TweeterContentMetro.baml
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.g.resources
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.Properties.Resources.resources
+C:\Users\Mariusz\Desktop\COPY21\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.csproj.GenerateResource.Cache
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\OpenFile.exe
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\WpfScreenHelper.dll
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\WpfScreenHelper.pdb
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\OpenFile.pdb
+F:\COPY30\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\DigitalSignageBaymax.exe.config
+F:\COPY30\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.exe
+F:\COPY30\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.pdb
+F:\COPY33\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\DigitalSignageBaymax.exe.config
+F:\COPY33\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.exe
+F:\COPY33\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.pdb
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\DigitalSignageBaymax.exe.config
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.exe
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.pdb
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Dictionary\Grammar.xml
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\KinectInteraction180_32.dll
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\KinectInteraction180_64.dll
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\DigitalSignageBaymax.exe
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\DigitalSignageBaymax.pdb
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\GestureDefinition.dll
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\InputSimulator.dll
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\iTwitter.dll
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Speech.dll
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\OpenFile.exe
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\PluginInterface.dll
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\WpfScreenHelper.dll
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\OpenFile.pdb
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\GestureDefinition.pdb
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\iTwitter.pdb
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\PluginInterface.pdb
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\InputSimulator.pdb
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\InputSimulator.xml
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\WpfScreenHelper.pdb
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\MainWindow.g.cs
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\App.g.cs
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax_MarkupCompile.cache
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax_MarkupCompile.lref
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\MainWindow.baml
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.g.resources
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.Properties.Resources.resources
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.csproj.GenerateResource.Cache
+E:\Google Drive\Possible\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\DigitalSignageBaymax.exe.config
+E:\Google Drive\Possible\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.exe
+E:\Google Drive\Possible\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.pdb
+E:\Google Drive\Possible\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Dictionary\Grammar.xml
+E:\Google Drive\Possible\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\KinectInteraction180_32.dll
+E:\Google Drive\Possible\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\KinectInteraction180_64.dll
+E:\Google Drive\Possible\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\GestureDefinition.dll
+E:\Google Drive\Possible\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\HtmlAgilityPack.dll
+E:\Google Drive\Possible\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\InputSimulator.dll
+E:\Google Drive\Possible\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\iTwitter.dll
+E:\Google Drive\Possible\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.dll
+E:\Google Drive\Possible\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+E:\Google Drive\Possible\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.dll
+E:\Google Drive\Possible\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Speech.dll
+E:\Google Drive\Possible\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Newtonsoft.Json.dll
+E:\Google Drive\Possible\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\OpenFile.exe
+E:\Google Drive\Possible\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\PluginInterface.dll
+E:\Google Drive\Possible\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\WpfScreenHelper.dll
+E:\Google Drive\Possible\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+E:\Google Drive\Possible\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\OpenFile.pdb
+E:\Google Drive\Possible\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\GestureDefinition.pdb
+E:\Google Drive\Possible\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\iTwitter.pdb
+E:\Google Drive\Possible\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+E:\Google Drive\Possible\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+E:\Google Drive\Possible\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\PluginInterface.pdb
+E:\Google Drive\Possible\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\HtmlAgilityPack.pdb
+E:\Google Drive\Possible\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\HtmlAgilityPack.xml
+E:\Google Drive\Possible\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\InputSimulator.pdb
+E:\Google Drive\Possible\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\InputSimulator.xml
+E:\Google Drive\Possible\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Newtonsoft.Json.xml
+E:\Google Drive\Possible\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\WpfScreenHelper.pdb
+E:\Google Drive\Possible\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.csprojResolveAssemblyReference.cache
+E:\Google Drive\Possible\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\MainWindow.g.cs
+E:\Google Drive\Possible\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\App.g.cs
+E:\Google Drive\Possible\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Google Drive\Possible\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax_MarkupCompile.cache
+E:\Google Drive\Possible\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax_MarkupCompile.lref
+E:\Google Drive\Possible\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\MainWindow.baml
+E:\Google Drive\Possible\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.g.resources
+E:\Google Drive\Possible\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.Properties.Resources.resources
+E:\Google Drive\Possible\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.csproj.GenerateResource.Cache
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\DigitalSignageBaymax.exe.config
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.exe
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.pdb
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Dictionary\Grammar.xml
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\KinectInteraction180_32.dll
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\KinectInteraction180_64.dll
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\GestureDefinition.dll
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\HtmlAgilityPack.dll
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\InputSimulator.dll
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\iTwitter.dll
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.dll
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.dll
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Speech.dll
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Newtonsoft.Json.dll
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\OpenFile.exe
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\PluginInterface.dll
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\WpfScreenHelper.dll
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\OpenFile.pdb
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\OpenFile.exe.config
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\GestureDefinition.pdb
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\iTwitter.pdb
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\PluginInterface.pdb
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\HtmlAgilityPack.pdb
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\HtmlAgilityPack.xml
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\InputSimulator.pdb
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\InputSimulator.xml
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\Newtonsoft.Json.xml
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\WpfScreenHelper.pdb
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.csprojResolveAssemblyReference.cache
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\MainWindow.g.cs
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\App.g.cs
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax_MarkupCompile.cache
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax_MarkupCompile.lref
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\MainWindow.baml
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.g.resources
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.Properties.Resources.resources
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\DigitalSignageBaymax\obj\Debug\DigitalSignageBaymax.csproj.GenerateResource.Cache
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\DigitalSignageBaymax.exe
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\DigitalSignageBaymax\bin\Debug\DigitalSignageBaymax.pdb

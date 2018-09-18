@@ -1,0 +1,15 @@
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\DigitalSignageBaymax\obj\Release\DigitalSignageBaymax.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\DigitalSignageBaymax\obj\Release\SetTheSize.baml
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\DigitalSignageBaymax\obj\Release\MainWindow.g.cs
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\DigitalSignageBaymax\obj\Release\SetTheSize.g.cs
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\DigitalSignageBaymax\obj\Release\App.g.cs
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\DigitalSignageBaymax\obj\Release\DigitalSignageBaymax_Content.g.cs
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\DigitalSignageBaymax\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\DigitalSignageBaymax\obj\Release\DigitalSignageBaymax_MarkupCompile.cache
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\DigitalSignageBaymax\obj\Release\DigitalSignageBaymax_MarkupCompile.lref
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\DigitalSignageBaymax\obj\Release\DigitalSignageBaymax.csprojResolveAssemblyReference.cache
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\DigitalSignageBaymax\obj\Release\MainWindow.g.cs
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\DigitalSignageBaymax\obj\Release\App.g.cs
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\DigitalSignageBaymax\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\DigitalSignageBaymax\obj\Release\DigitalSignageBaymax_MarkupCompile.cache
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\DigitalSignageBaymax\obj\Release\DigitalSignageBaymax_MarkupCompile.lref

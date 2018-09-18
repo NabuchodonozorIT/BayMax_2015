@@ -1,0 +1,12 @@
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Config\OpenFile\bin\Release\OpenFile.exe
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Config\OpenFile\bin\Release\OpenFile.pdb
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Config\OpenFile\obj\Release\OpenFile.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Config\OpenFile\obj\Release\MainWindow.baml
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Config\OpenFile\obj\Release\MainWindow.g.cs
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Config\OpenFile\obj\Release\App.g.cs
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Config\OpenFile\obj\Release\OpenFile_MarkupCompile.cache
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Config\OpenFile\obj\Release\OpenFile.g.resources
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Config\OpenFile\obj\Release\OpenFile.Properties.Resources.resources
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Config\OpenFile\obj\Release\OpenFile.csproj.GenerateResource.Cache
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Config\OpenFile\obj\Release\OpenFile.exe
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Config\OpenFile\obj\Release\OpenFile.pdb

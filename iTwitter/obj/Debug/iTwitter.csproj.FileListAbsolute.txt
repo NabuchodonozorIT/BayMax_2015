@@ -1,0 +1,51 @@
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\iTwitter\bin\Debug\iTwitter.dll
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\iTwitter\bin\Debug\iTwitter.pdb
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\iTwitter\obj\Debug\iTwitter.dll
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\iTwitter\obj\Debug\iTwitter.pdb
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\iTwitter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\iTwitter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\iTwitter\bin\Debug\RestSharp.dll
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\iTwitter\bin\Debug\RestSharp.xml
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\iTwitter\bin\Debug\iTwitter.dll
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\iTwitter\bin\Debug\iTwitter.pdb
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\iTwitter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\iTwitter\bin\Debug\RestSharp.dll
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\iTwitter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\iTwitter\bin\Debug\RestSharp.xml
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\iTwitter\obj\Debug\iTwitter.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\iTwitter\obj\Debug\iTwitter.dll
+C:\Users\Mariusz\Desktop\COPY9\DigitalSignageBaymax\iTwitter\obj\Debug\iTwitter.pdb
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\iTwitter\obj\Debug\iTwitter.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\iTwitter\bin\Debug\iTwitter.dll
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\iTwitter\bin\Debug\iTwitter.pdb
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\iTwitter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\iTwitter\bin\Debug\RestSharp.dll
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\iTwitter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\iTwitter\bin\Debug\RestSharp.xml
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\iTwitter\obj\Debug\iTwitter.dll
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\iTwitter\obj\Debug\iTwitter.pdb
+C:\Users\Mariusz\Desktop\COPY18\DigitalSignageBaymax\iTwitter\obj\Debug\iTwitter.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\iTwitter\bin\Debug\OpenFile.exe
+C:\Users\Mariusz.konior\Desktop\Masterpiece\DigitalSignageBaymax\iTwitter\bin\Debug\OpenFile.pdb
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\iTwitter\bin\Debug\iTwitter.dll
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\iTwitter\bin\Debug\iTwitter.pdb
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\iTwitter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\iTwitter\bin\Debug\OpenFile.exe
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\iTwitter\bin\Debug\RestSharp.dll
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\iTwitter\bin\Debug\OpenFile.pdb
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\iTwitter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\iTwitter\bin\Debug\RestSharp.xml
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\iTwitter\obj\Debug\iTwitter.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\iTwitter\obj\Debug\iTwitter.dll
+C:\Users\Mariusz\Desktop\COPY33\DigitalSignageBaymax\iTwitter\obj\Debug\iTwitter.pdb
+E:\Google Drive\Possible\DigitalSignageBaymax\iTwitter\bin\Debug\iTwitter.dll
+E:\Google Drive\Possible\DigitalSignageBaymax\iTwitter\bin\Debug\iTwitter.pdb
+E:\Google Drive\Possible\DigitalSignageBaymax\iTwitter\bin\Debug\Newtonsoft.Json.dll
+E:\Google Drive\Possible\DigitalSignageBaymax\iTwitter\bin\Debug\OpenFile.exe
+E:\Google Drive\Possible\DigitalSignageBaymax\iTwitter\bin\Debug\RestSharp.dll
+E:\Google Drive\Possible\DigitalSignageBaymax\iTwitter\bin\Debug\OpenFile.pdb
+E:\Google Drive\Possible\DigitalSignageBaymax\iTwitter\bin\Debug\Newtonsoft.Json.xml
+E:\Google Drive\Possible\DigitalSignageBaymax\iTwitter\bin\Debug\RestSharp.xml
+E:\Google Drive\Possible\DigitalSignageBaymax\iTwitter\obj\Debug\iTwitter.csprojResolveAssemblyReference.cache
+E:\Google Drive\Possible\DigitalSignageBaymax\iTwitter\obj\Debug\iTwitter.dll
+E:\Google Drive\Possible\DigitalSignageBaymax\iTwitter\obj\Debug\iTwitter.pdb

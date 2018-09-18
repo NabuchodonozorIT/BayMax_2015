@@ -1,0 +1,24 @@
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\.Release\KinectInteraction180_32.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\.Release\KinectInteraction180_64.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\.Release\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\.Release\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Release\Microsoft.Kinect.Toolkit.Controls.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Release\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.cache
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Release\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.lref
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Release\Themes\Generic.baml
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Release\Microsoft.Kinect.Toolkit.Controls.g.resources
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Release\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Mariusz.konior\Desktop\FINISH\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Release\Microsoft.Kinect.Toolkit.Controls.pdb
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\.Release\KinectInteraction180_32.dll
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\.Release\KinectInteraction180_64.dll
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\.Release\Microsoft.Kinect.Toolkit.Controls.dll
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\.Release\Microsoft.Kinect.Toolkit.Controls.pdb
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Release\Microsoft.Kinect.Toolkit.Controls.csprojResolveAssemblyReference.cache
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Release\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.cache
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Release\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.lref
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Release\Themes\Generic.baml
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Release\Microsoft.Kinect.Toolkit.Controls.g.resources
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Release\Microsoft.Kinect.Toolkit.Controls.dll
+E:\Google Drive\PROJEKTY\DigitalSignageBaymax\Microsoft.Kinect.Toolkit.Controls\obj\Release\Microsoft.Kinect.Toolkit.Controls.pdb
